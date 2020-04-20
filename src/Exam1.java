@@ -55,7 +55,7 @@ public class Exam1 {
             flag[i]=0;
             return t;
         }else{
-            return 100000000;
+            return 100000001;
         }
     }
 
