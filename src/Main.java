@@ -7,6 +7,7 @@ public class Main {
     Solution4 solution4 = new Solution4();
     boolean i = solution4.find(array, 0);
     System.out.println(i);
+    System.out.println(i);
 
     }
 }
